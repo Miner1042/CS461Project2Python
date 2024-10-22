@@ -1,0 +1,44 @@
+SLA100A
+Glen
+Logos 325
+12PM
+SLA100B
+Banks
+Loft 206
+12PM
+SLA191A
+Glen
+Loft 206
+1PM
+SLA191B
+Banks
+Loft 206
+11AM
+SLA201
+Banks
+Loft 310
+10AM
+SLA291
+Banks
+Frank 119
+1PM
+SLA303
+Glen
+Loft 310
+2PM
+SLA304
+Singer
+Frank 119
+12PM
+SLA394
+Tyler
+Slater 003
+10AM
+SLA449
+Tyler
+Loft 206
+10AM
+SLA451
+Tyler
+Loft 310
+11AM
