@@ -340,4 +340,4 @@ while(userIn != "N"):
             mutationRate /= 2
         # else:
         #     mutationRate *= 2
-        prevAvgFitness = averageFitness
+        prevAvgFitness = averageFitness 

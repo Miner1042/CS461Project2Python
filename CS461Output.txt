@@ -1,44 +1,44 @@
 SLA100A
-Glen
-Logos 325
-12PM
-SLA100B
-Banks
-Loft 206
-12PM
-SLA191A
-Glen
-Loft 206
-1PM
-SLA191B
-Banks
-Loft 206
-11AM
-SLA201
-Banks
-Loft 310
-10AM
-SLA291
-Banks
+Zeldin
 Frank 119
-1PM
-SLA303
-Glen
+10AM
+SLA100B
+Zeldin
 Loft 310
 2PM
-SLA304
-Singer
-Frank 119
-12PM
-SLA394
-Tyler
-Slater 003
-10AM
-SLA449
-Tyler
-Loft 206
-10AM
-SLA451
-Tyler
+SLA191A
+Zeldin
 Loft 310
 11AM
+SLA191B
+Zeldin
+Frank 119
+1PM
+SLA201
+Zeldin
+Loft 206
+12PM
+SLA291
+Singer
+Beach 201
+11AM
+SLA303
+Zeldin
+Loft 206
+12PM
+SLA304
+Banks
+Roman 216
+3PM
+SLA394
+Singer
+Beach 201
+12PM
+SLA449
+Singer
+Beach 301
+3PM
+SLA451
+Zeldin
+Loft 310
+1PM
